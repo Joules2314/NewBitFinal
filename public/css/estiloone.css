@@ -1,0 +1,4080 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: #fc0345;
+}
+
+
+.imagem{
+    width: 22%;
+    position: absolute;
+    left: 8%;
+}
+
+.Episodios{
+    position: absolute;
+    bottom: -20%;
+    display: block;
+    left: 7%;
+    
+}
+
+.autor{
+    display: block;
+    position: absolute;
+    left: 35%;
+    color: #d7d9d4;
+    bottom: 55%;
+}
+
+.autor-nome{
+    display: block;
+    position: absolute;
+    left: 35%;
+    color: #d7d9d4;
+    bottom: 50%;
+}
+
+.studio{
+    display: block;
+    position: absolute;
+    right: 35%;
+    color: #d7d9d4;
+    bottom: 55%;
+}
+
+.studio-nome{
+    display: block;
+    position: absolute;
+    right: 30.7%;
+    color: #d7d9d4;
+    bottom: 50%;
+}
+
+.lançamento{
+    display: block;
+    position: absolute;
+    right: 18%;
+    color: #d7d9d4;
+    bottom: 55%;
+}
+
+.ano{
+    display: block;
+    position: absolute;
+    right: 19.2%;
+    color: #d7d9d4;
+    bottom: 50%;
+}
+
+.sinopse{
+    display: block;
+    position: absolute;
+    left: 35%;
+    color: #d7d9d4;
+    bottom: 42%;
+}
+
+.sinopse-conteudo{
+    
+    position: absolute;
+    left: 35%;
+    color: #d7d9d4;
+    bottom: -3%;
+    font-size: small;
+}
+
+
+@media screen  and (min-width:300px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: 2%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 2%;
+        color: #d7d9d4;
+        bottom: -2%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 20%;
+        color: #d7d9d4;
+        bottom: 2%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 8%;
+        color: #d7d9d4;
+        bottom: -2%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -15%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -20%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -28%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -160%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+@media screen  and (min-width:320px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -4%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -8%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 20%;
+        color: #d7d9d4;
+        bottom: -4%;
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 9%;
+        color: #d7d9d4;
+        bottom: -8%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -20%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -25%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -38%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -160%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+@media screen  and (min-width:340px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -11%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -16%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -11%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 12%;
+        color: #d7d9d4;
+        bottom: -16%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -30%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -35%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -49%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -160%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+    
+@media screen  and (min-width:380px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 75%;
+        position: absolute;
+        left: 13%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -21%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -26%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -21%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 12%;
+        color: #d7d9d4;
+        bottom: -26%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -40%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -45%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -56%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -160%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+
+
+@media screen  and (min-width:400px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -21%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -26%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -21%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 15%;
+        color: #d7d9d4;
+        bottom: -26%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -42%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -48%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -60%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -160%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+   
+
+
+@media screen  and (min-width:430px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -31%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -36%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -31%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 15%;
+        color: #d7d9d4;
+        bottom: -36%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -50%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -55%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -67%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -163%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+   
+
+
+@media screen  and (min-width:480px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -35%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -40%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -35%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 16%;
+        color: #d7d9d4;
+        bottom: -40%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -60%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -65%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -78%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -165%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+   
+@media screen  and (min-width:500px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -41%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -46%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -41%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 16%;
+        color: #d7d9d4;
+        bottom: -46%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -65%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -70%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -82%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -165%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+   
+
+
+@media screen  and (min-width:530px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -46%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -51%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -46%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 16%;
+        color: #d7d9d4;
+        bottom: -51%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -68%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -73%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -86%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -165%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+@media screen  and (min-width:557px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -51%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -56%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -51%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17%;
+        color: #d7d9d4;
+        bottom: -56%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -68%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -73%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -86%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -170%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+@media screen  and (min-width:580px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -56%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -61%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -56%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17%;
+        color: #d7d9d4;
+        bottom: -61%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -70%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -75%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -89%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -168%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -175%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -170%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+
+@media screen  and (min-width:608px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 80%;
+        position: absolute;
+        left: 9%;
+        
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -83%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -87%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -83%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17.5%;
+        color: #d7d9d4;
+        bottom: -87%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -95%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -100%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -108%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -178%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -185%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -193%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+@media screen  and (min-width:650px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 80%;
+        position: absolute;
+        left: 9%;
+        
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -90%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -95%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -90%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17.5%;
+        color: #d7d9d4;
+        bottom: -95%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -105%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -110%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -120%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -188%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -195%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -193%;
+        width: 20%;
+        left: 8%;
+    }
+
+}
+
+
+
+
+@media screen  and (min-width:680px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 80%;
+        position: absolute;
+        left: 9%;
+        
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -95%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 15%;
+        color: #d7d9d4;
+        bottom: -100%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -95%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17.5%;
+        color: #d7d9d4;
+        bottom: -100%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -105%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -110%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -120%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -188%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -195%;
+        display: block;
+        
+        
+        
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -193%;
+        width: 20%;
+        left: 8%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -193%;
+        width: 19.1%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -193%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -193%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -193%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -193%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -193%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:700px) {
+    .anome{
+        position: absolute;
+        left: -20%;
+
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 4%;
+        bottom: 0%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -85%;
+        display: block;
+        
+        
+        
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -15%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -75%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -80%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+
+@media screen  and (min-width:720px) {
+    .anome{
+        position: absolute;
+        left: -20%;
+
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 3.5%;
+        bottom: -2%;
+    }
+    
+     .Episodios{
+        position: absolute;
+        bottom: -85%;
+        display: block;
+        
+        
+        
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 43%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -15%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -75%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -80%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -80%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+
+@media screen  and (min-width:730px) {
+    .anome{
+        position: absolute;
+        left: -20%;
+
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 3%;
+        bottom: -5%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -85%;
+        display: block;
+        
+        
+        
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -15%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -75%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:768px) {
+    .anome{
+       position: absolute;
+       left:-32%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -8%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -85%;
+        display: block;
+        
+        
+        
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -18%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -78%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:780px) {
+    .anome{
+       position: absolute;
+       left:-31%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -9%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -90%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -20%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -80%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 52.5%;
+    }
+
+    
+}
+
+
+
+@media screen  and (min-width:800px) {
+    .anome{
+       position: absolute;
+       left:-30%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -12%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -90%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -22%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -83%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -90%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -90%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -102%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:830px) {
+    .anome{
+       position: absolute;
+       left:-29%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -15%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -90%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -25%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -84%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -93%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -93%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -105%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -105%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -105%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -105%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -105%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+@media screen  and (min-width:850px) {
+    .anome{
+       position: absolute;
+       left:-28%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -20%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -100%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -36%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -94%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -103%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:900px) {
+    .anome{
+       position: absolute;
+       left:-26%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -22%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -100%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 10%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 5%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -36%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -94%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -103%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+@media screen  and (min-width:930px) {
+    .anome{
+       position: absolute;
+       left:-25%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -25%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -100%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: -5%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: -10%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 20%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 15%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -44%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -94%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -103%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+@media screen  and (min-width:960px) {
+    .anome{
+       position: absolute;
+       left:-24%; 
+        
+    }
+    
+    .imagem{
+        width: 35%;
+        position: absolute;
+        left: 2%;
+        bottom: -28%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -100%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: -5%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: -10%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 20%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 40%;
+        color: #d7d9d4;
+        bottom: 15%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -44%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 4%;
+        color: #d7d9d4;
+        bottom: -94%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -103%;
+        width: 10%;
+        left: 6%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 18%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 29.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 41%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 52.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 64%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -103%;
+        width: 9.5%;
+        left: 75.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 6%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 18%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 29.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 41%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -120%;
+        width: 10%;
+        left: 52.5%;
+    }
+}
+
+
+
+@media screen  and (min-width:990px) {
+    .anome{
+        position: absolute;
+        left:-18%;
+        bottom: 56%; 
+         
+    }
+   
+   
+    .imagem{
+        width: 30%;
+        position: absolute;
+        left: 3%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -75%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        left: 78%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 78%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 63%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        left: 63%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 14%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: -55%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -60%;
+        width: 10%;
+        left: 10%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 22%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 33.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 45%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 56.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 68%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -60%;
+        width: 9.5%;
+        left: 79.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -78%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -78%;
+        width: 10%;
+        left: 22%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -78%;
+        width: 10%;
+        left: 33.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -78%;
+        width: 10%;
+        left: 45%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -78%;
+        width: 10%;
+        left: 56.5%;
+    }
+   
+}
+
+
+
+
+@media screen  and (min-width:1075px) {
+    .anome{
+        position: absolute;
+        left:-25%;
+        bottom: 45%; 
+         
+    }
+
+    .imagem{
+        width: 22%;
+        position: absolute;
+        left: 10%;
+        bottom: -25%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -75%;
+        display: block;    
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 25%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        right: 35%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        left: 78%;
+        color: #d7d9d4;
+        bottom: 20%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        right: 18%;
+        color: #d7d9d4;
+        bottom: 30%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        right: 19%;
+        color: #d7d9d4;
+        bottom: 25%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 8%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: -55%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -45%;
+        width: 10%;
+    }
+   
+
+    .EP2 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 22%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 33.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 45%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 56.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 68%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -45%;
+        width: 9.5%;
+        left: 79.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -64%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -64%;
+        width: 10%;
+        left: 22%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -64%;
+        width: 10%;
+        left: 33.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -64%;
+        width: 10%;
+        left: 45%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -64%;
+        width: 10%;
+        left: 56.5%;
+    }
+   
+    
+}
+
+
+
+@media screen  and (min-width:1085px) {
+    .anome{
+        position: absolute;
+        left:-24%;
+        bottom: 63%; 
+         
+    }
+
+    .imagem{
+        width: 22%;
+        position: absolute;
+        left: 8%;
+        bottom: -10%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -55%;
+        left: 7%; 
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        right: 35%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 32.7%;
+        color: #d7d9d4;
+        bottom: 35%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        right: 18%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        right: 19%;
+        color: #d7d9d4;
+        bottom: 40%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 22%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: -40%;
+    }
+    
+    .EP1{
+        position: absolute;
+        bottom: -37%;
+        width: 10%;
+    }
+
+    .EP2 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 22%;
+    }
+
+    .EP3 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 33.5%;
+    }
+
+    .EP4 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 45%;
+    }
+
+    .EP5 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 56.5%;
+    }
+
+    .EP6 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 68%;
+    }
+
+    .EP7 {
+        position: absolute;
+        bottom: -37%;
+        width: 9.5%;
+        left: 79.5%;
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP8 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 10%;
+        
+    }
+
+    .EP9 {
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 22%;
+        
+    }
+
+    .EP10{
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 33.5%;
+    }
+
+    .EP11{
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 45%;
+    }
+
+    .EP12{
+        position: absolute;
+        bottom: -53%;
+        width: 10%;
+        left: 56.5%;
+    }
+   
+   
+    
+}
+
+
+@media screen  and (min-width:1366px) {
+    .imagem{
+        width: 22%;
+        position: absolute;
+        left: 8%;
+    }
+    
+    .Episodios{
+        position: absolute;
+        bottom: -20%;
+        display: block;
+        left: 7%;
+        
+    }
+    
+    .autor{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .studio{
+        display: block;
+        position: absolute;
+        right: 35%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 30.7%;
+        color: #d7d9d4;
+        bottom: 45%;
+    }
+    
+    .lançamento{
+        display: block;
+        position: absolute;
+        right: 18%;
+        color: #d7d9d4;
+        bottom: 55%;
+    }
+    
+    .ano{
+        display: block;
+        position: absolute;
+        right: 19.2%;
+        color: #d7d9d4;
+        bottom: 50%;
+    }
+    
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: 42%;
+    }
+    
+    .sinopse-conteudo{
+        
+        position: absolute;
+        left: 35%;
+        color: #d7d9d4;
+        bottom: -3%;
+        font-size: small;
+    }
+}

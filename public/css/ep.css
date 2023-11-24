@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: #fc0345;
+}
+
+.presumo{
+    color: #d7d9d4;
+    margin-left: 1%;  
+    margin-right: 1%;  
+}
+
+
+.proximo{
+    display: block;
+    color: #fc0345;
+    
+    
+}
+
