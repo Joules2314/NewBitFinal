@@ -663,6 +663,7 @@ h1{
 @media screen  and (min-width:430px) {
     .anome{
         text-align: center;
+        margin-top: 20%;
     }
 
     .imagem{
@@ -676,7 +677,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -31%;
+        bottom: -45%;
     }
     
     .autor-nome{
@@ -684,23 +685,23 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -36%;
+        bottom: -50%;
     }
 
     .studio{
         display: block;
         position: absolute;
-        right: 23%;
-        color: #d7d9d4;
-        bottom: -31%
+        right: 15%;
+        color: hsl(84, 6%, 84%);
+        bottom: -45%
     }
 
     .studio-nome{
         display: block;
         position: absolute;
-        right: 15%;
+        right: 10%;
         color: #d7d9d4;
-        bottom: -36%;
+        bottom: -50%;
     }
 
     .lançamento{
@@ -708,7 +709,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -43%;
+        bottom: -60%;
     }
 
     .ano{
@@ -716,7 +717,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -48%;
+        bottom: -65%;
     }
 
     .sinopse{
@@ -724,7 +725,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -53%;
+        bottom: -78%;
     }
     
     .sinopse-conteudo{
@@ -732,12 +733,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -143%;
+        bottom: -85%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -150%;
+        bottom: -95%;
         display: block;
         
         
@@ -746,9 +747,25 @@ h1{
 
     .EP1{
         position: absolute;
-        bottom: -163%;
+        bottom: -160%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 25%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        margin: 10px;
+        display: block;
     }
 
 }
@@ -758,6 +775,7 @@ h1{
 @media screen  and (min-width:480px) {
     .anome{
         text-align: center;
+        margin-top: 20%;
     }
 
     .imagem{
@@ -767,54 +785,6 @@ h1{
     }
 
     .autor{
-        display: block;
-        position: absolute;
-        left: 7%;
-        color: #d7d9d4;
-        bottom: -35%;
-    }
-    
-    .autor-nome{
-        display: block;
-        position: absolute;
-        left: 7%;
-        color: #d7d9d4;
-        bottom: -40%;
-    }
-
-    .studio{
-        display: block;
-        position: absolute;
-        right: 23%;
-        color: #d7d9d4;
-        bottom: -35%
-    }
-
-    .studio-nome{
-        display: block;
-        position: absolute;
-        right: 16%;
-        color: #d7d9d4;
-        bottom: -40%;
-    }
-
-    .lançamento{
-        display: block;
-        position: absolute;
-        left: 7%;
-        color: #d7d9d4;
-        bottom: -48%;
-    }
-
-    .ano{
-        display: block;
-        position: absolute;
-        left: 7%;
-        color: #d7d9d4;
-        bottom: -53%;
-    }
-
-    .sinopse{
         display: block;
         position: absolute;
         left: 7%;
@@ -822,17 +792,65 @@ h1{
         bottom: -60%;
     }
     
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -65%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 17%;
+        color: hsl(84, 6%, 84%);
+        bottom: -60%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 10%;
+        color: #d7d9d4;
+        bottom: -65%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -78%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -83%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -92%;
+    }
+    
     .sinopse-conteudo{
     
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -143%;
+        bottom: -100%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -150%;
+        bottom: -120%;
         display: block;
         
         
@@ -841,9 +859,25 @@ h1{
 
     .EP1{
         position: absolute;
-        bottom: -165%;
+        bottom: -160%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 25%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        margin: 10px;
+        display: block;
     }
 
 }
@@ -851,6 +885,7 @@ h1{
 @media screen  and (min-width:500px) {
     .anome{
         text-align: center;
+        margin-top: 20%;
     }
 
     .imagem{
@@ -864,7 +899,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -41%;
+        bottom: -60%;
     }
     
     .autor-nome{
@@ -872,23 +907,23 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -46%;
+        bottom: -65%;
     }
 
     .studio{
         display: block;
         position: absolute;
-        right: 23%;
-        color: #d7d9d4;
-        bottom: -41%
+        right: 17%;
+        color: hsl(84, 6%, 84%);
+        bottom: -60%
     }
 
     .studio-nome{
         display: block;
         position: absolute;
-        right: 16%;
+        right: 10%;
         color: #d7d9d4;
-        bottom: -46%;
+        bottom: -65%;
     }
 
     .lançamento{
@@ -896,7 +931,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -53%;
+        bottom: -78%;
     }
 
     .ano{
@@ -904,7 +939,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -58%;
+        bottom: -83%;
     }
 
     .sinopse{
@@ -912,7 +947,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -65%;
+        bottom: -92%;
     }
     
     .sinopse-conteudo{
@@ -920,12 +955,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -143%;
+        bottom: -100%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -150%;
+        bottom: -120%;
         display: block;
         
         
@@ -934,9 +969,25 @@ h1{
 
     .EP1{
         position: absolute;
-        bottom: -165%;
+        bottom: -160%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 25%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        margin: 10px;
+        display: block;
     }
 
 }
@@ -946,6 +997,7 @@ h1{
 @media screen  and (min-width:530px) {
     .anome{
         text-align: center;
+        margin-top: 20%;
     }
 
     .imagem{
@@ -959,7 +1011,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -46%;
+        bottom: -60%;
     }
     
     .autor-nome{
@@ -967,23 +1019,23 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -51%;
+        bottom: -65%;
     }
 
     .studio{
         display: block;
         position: absolute;
-        right: 23%;
-        color: #d7d9d4;
-        bottom: -46%
+        right: 17%;
+        color: hsl(84, 6%, 84%);
+        bottom: -60%
     }
 
     .studio-nome{
         display: block;
         position: absolute;
-        right: 16%;
+        right: 10%;
         color: #d7d9d4;
-        bottom: -51%;
+        bottom: -65%;
     }
 
     .lançamento{
@@ -991,7 +1043,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -58%;
+        bottom: -78%;
     }
 
     .ano{
@@ -999,7 +1051,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -63%;
+        bottom: -83%;
     }
 
     .sinopse{
@@ -1007,7 +1059,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -70%;
+        bottom: -92%;
     }
     
     .sinopse-conteudo{
@@ -1015,12 +1067,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -143%;
+        bottom: -100%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -150%;
+        bottom: -120%;
         display: block;
         
         
@@ -1029,9 +1081,25 @@ h1{
 
     .EP1{
         position: absolute;
-        bottom: -165%;
+        bottom: -160%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 25%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 25%;
+        margin: 10px;
+        display: block;
     }
 
 }
@@ -1054,7 +1122,7 @@ h1{
         position: absolute;
         left: 20%;
         color: #d7d9d4;
-        bottom: -51%;
+        bottom: -65%;
     }
     
     .autor-nome{
@@ -1062,7 +1130,7 @@ h1{
         position: absolute;
         left: 20%;
         color: #d7d9d4;
-        bottom: -56%;
+        bottom: -70%;
     }
 
     .studio{
@@ -1070,7 +1138,7 @@ h1{
         position: absolute;
         right: 23%;
         color: #d7d9d4;
-        bottom: -51%
+        bottom: -65%
     }
 
     .studio-nome{
@@ -1078,7 +1146,7 @@ h1{
         position: absolute;
         right: 17%;
         color: #d7d9d4;
-        bottom: -56%;
+        bottom: -70%;
     }
 
     .lançamento{
@@ -1086,7 +1154,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -63%;
+        bottom: -75%;
     }
 
     .ano{
@@ -1094,7 +1162,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -68%;
+        bottom: -80%;
     }
 
     .sinopse{
@@ -1102,7 +1170,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -75%;
+        bottom: -90%;
     }
     
     .sinopse-conteudo{
@@ -1110,12 +1178,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -150%;
+        bottom: -98%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -155%;
+        bottom: -110%;
         display: block;
         
         
@@ -1127,6 +1195,22 @@ h1{
         bottom: -170%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        margin: 10px;
+        display: block;
     }
 
 }
@@ -1148,7 +1232,7 @@ h1{
         position: absolute;
         left: 20%;
         color: #d7d9d4;
-        bottom: -56%;
+        bottom: -75%;
     }
     
     .autor-nome{
@@ -1156,7 +1240,7 @@ h1{
         position: absolute;
         left: 20%;
         color: #d7d9d4;
-        bottom: -61%;
+        bottom: -80%;
     }
 
     .studio{
@@ -1164,7 +1248,7 @@ h1{
         position: absolute;
         right: 23%;
         color: #d7d9d4;
-        bottom: -56%
+        bottom: -75%
     }
 
     .studio-nome{
@@ -1172,7 +1256,7 @@ h1{
         position: absolute;
         right: 17%;
         color: #d7d9d4;
-        bottom: -61%;
+        bottom: -80%;
     }
 
     .lançamento{
@@ -1180,7 +1264,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -68%;
+        bottom: -90%;
     }
 
     .ano{
@@ -1188,7 +1272,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -73%;
+        bottom: -95%;
     }
 
     .sinopse{
@@ -1196,7 +1280,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -82%;
+        bottom: -105%;
     }
     
     .sinopse-conteudo{
@@ -1204,12 +1288,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -150%;
+        bottom: -112%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -155%;
+        bottom: -120%;
         display: block;
         
         
@@ -1223,6 +1307,22 @@ h1{
         left: 8%;
     }
 
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        margin: 10px;
+        display: block;
+    }
+
 }
 
 
@@ -1234,26 +1334,25 @@ h1{
     }
 
     .imagem{
-        width: 80%;
+        width: 70%;
         position: absolute;
-        left: 9%;
-        
+        left: 17%;
     }
 
     .autor{
         display: block;
         position: absolute;
-        left: 15%;
+        left: 20%;
         color: #d7d9d4;
-        bottom: -83%;
+        bottom: -75%;
     }
     
     .autor-nome{
         display: block;
         position: absolute;
-        left: 15%;
+        left: 20%;
         color: #d7d9d4;
-        bottom: -87%;
+        bottom: -80%;
     }
 
     .studio{
@@ -1261,15 +1360,15 @@ h1{
         position: absolute;
         right: 23%;
         color: #d7d9d4;
-        bottom: -83%
+        bottom: -75%
     }
 
     .studio-nome{
         display: block;
         position: absolute;
-        right: 17.5%;
+        right: 17%;
         color: #d7d9d4;
-        bottom: -87%;
+        bottom: -80%;
     }
 
     .lançamento{
@@ -1277,7 +1376,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -94%;
+        bottom: -90%;
     }
 
     .ano{
@@ -1285,7 +1384,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -98%;
+        bottom: -95%;
     }
 
     .sinopse{
@@ -1301,12 +1400,12 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -168%;
+        bottom: -112%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -175%;
+        bottom: -120%;
         display: block;
         
         
@@ -1315,12 +1414,136 @@ h1{
 
     .EP1{
         position: absolute;
-        bottom: -193%;
+        bottom: -170%;
         width: 20%;
         left: 8%;
     }
 
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        margin: 10px;
+        display: block;
+    }
+
 }
+
+
+@media screen  and (min-width:620px) {
+    .anome{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 70%;
+        position: absolute;
+        left: 17%;
+    }
+
+    .autor{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -85%;
+    }
+    
+    .autor-nome{
+        display: block;
+        position: absolute;
+        left: 20%;
+        color: #d7d9d4;
+        bottom: -90%;
+    }
+
+    .studio{
+        display: block;
+        position: absolute;
+        right: 23%;
+        color: #d7d9d4;
+        bottom: -85%
+    }
+
+    .studio-nome{
+        display: block;
+        position: absolute;
+        right: 17%;
+        color: #d7d9d4;
+        bottom: -90%;
+    }
+
+    .lançamento{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -100%;
+    }
+
+    .ano{
+        display: block;
+        position: absolute;
+        left: 45%;
+        color: #d7d9d4;
+        bottom: -105%;
+    }
+
+    .sinopse{
+        display: block;
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -118%;
+    }
+    
+    .sinopse-conteudo{
+    
+        position: absolute;
+        left: 7%;
+        color: #d7d9d4;
+        bottom: -125%;
+    }
+
+    .Episodios{
+        position: absolute;
+        bottom: -135%;
+        display: block;
+    }
+
+    .EP1{
+        position: absolute;
+        bottom: -170%;
+        width: 20%;
+        left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+}
+
 
 
 @media screen  and (min-width:650px) {
@@ -1329,26 +1552,25 @@ h1{
     }
 
     .imagem{
-        width: 80%;
+        width: 70%;
         position: absolute;
-        left: 9%;
-        
+        left: 17%;
     }
 
     .autor{
         display: block;
         position: absolute;
-        left: 15%;
+        left: 20%;
         color: #d7d9d4;
-        bottom: -90%;
+        bottom: -85%;
     }
     
     .autor-nome{
         display: block;
         position: absolute;
-        left: 15%;
+        left: 20%;
         color: #d7d9d4;
-        bottom: -95%;
+        bottom: -90%;
     }
 
     .studio{
@@ -1356,15 +1578,15 @@ h1{
         position: absolute;
         right: 23%;
         color: #d7d9d4;
-        bottom: -90%
+        bottom: -85%
     }
 
     .studio-nome{
         display: block;
         position: absolute;
-        right: 17.5%;
+        right: 17%;
         color: #d7d9d4;
-        bottom: -95%;
+        bottom: -90%;
     }
 
     .lançamento{
@@ -1372,7 +1594,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -90%;
+        bottom: -100%;
     }
 
     .ano{
@@ -1380,7 +1602,7 @@ h1{
         position: absolute;
         left: 45%;
         color: #d7d9d4;
-        bottom: -95%;
+        bottom: -105%;
     }
 
     .sinopse{
@@ -1388,7 +1610,7 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -105%;
+        bottom: -118%;
     }
     
     .sinopse-conteudo{
@@ -1396,23 +1618,36 @@ h1{
         position: absolute;
         left: 7%;
         color: #d7d9d4;
-        bottom: -168%;
+        bottom: -125%;
     }
 
     .Episodios{
         position: absolute;
-        bottom: -175%;
+        bottom: -135%;
         display: block;
-        
-        
-        
     }
 
     .EP1{
         position: absolute;
-        bottom: -193%;
+        bottom: -170%;
         width: 20%;
         left: 8%;
+    }
+
+    .actionswar {
+        position: absolute;
+        top: 22%;
+        right: 32%;
+        margin: 10px;
+        display: block;
+    }
+
+    .actionsdel{
+        position: absolute;
+        top: 22%;
+        left: 32%;
+        margin: 10px;
+        display: block;
     }
 
 }
